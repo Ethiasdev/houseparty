@@ -66,6 +66,7 @@ var button = document.getElementById('button');
 button.onclick = function() {
   var result = dice.roll();
   printNumber(result);
+  console.log(result)
 };
 
 // Truth questions
