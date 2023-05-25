@@ -1,73 +1,78 @@
 #board {
     display: block;
-    max-width: 100%;
-    height: auto;
   }
 
-  #mydiv {
-    position: absolute;
-    z-index: 9;
-    background-color: #f1f1f1;
-    border: 1px solid #d3d3d3;
-    text-align: center;
-  }
-  
-  #mydivheader {
-    padding: 10px;
-    cursor: move;
-    z-index: 10;
-    background-color: #2196F3;
-    color: #fff;
-  }
-  
-  * {
-    font-family: Helvetica, Arial, sans-serif;
-    text-align: center;
-  }
-  button {
-    background-color: rgb(82, 186, 179);
-    border-radius: 6px;
-    border: none;
-    color: rgb(255, 255, 255);
-    padding: 10px;
-    text-transform: uppercase;
-    width: 200px;
-    cursor: pointer;
-  }
-  #placeholder {
-    height: 100px;
-    width: 100px;
-    padding: 50px;
-    margin: 50px auto;
-    border: 1px solid gray;
-    border-radius: 10px;  
-    font-size:80px;
-  }
+#mydiv {
+  position: absolute;
+  z-index: 9;
+  background-color: #f1f1f1;
+  border: 1px solid #d3d3d3;
+  text-align: center;
+}
+
+#mydivheader {
+  padding: 10px;
+  cursor: move;
+  z-index: 10;
+  background-color: #2196F3;
+  color: #fff;
+}
+
+*{
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+button {
+  background-color: rgb(82, 186, 179);
+  border-radius: 6px;
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  text-transform: uppercase;
+  width: 200px;
+  cursor: pointer;
+}
+#placeholder {
+  height: 50px;
+  width: 50px;
+  padding: 50px;
+  margin: 50px auto;
+  border: 1px solid gray;
+  border-radius: 10px;  
+  font-size:80px;
+  margin-left: 25%;
+}
 
 
-  #test {
-    position: absolute;
-    z-index: 9;
-    background-color: #f1f1f1;
-    border: 1px solid #d3d3d3;
-    text-align: center;
-  }
-  
-  #testheader {
-    padding: 10px;
-    cursor: move;
-    z-index: 10;
-    background-color: #21f33d;
-    color: #fff;
-  }
+#test {
+  position: absolute;
+  z-index: 9;
+  background-color: #f1f1f1;
+  border: 1px solid #d3d3d3;
+  text-align: center;
+}
+
+#testheader {
+  padding: 10px;
+  cursor: move;
+  z-index: 10;
+  background-color: #21f33d;
+  color: #fff;
+}
+
+img{
+
+width: 36%;
+position: relative;
+left: 420px;
+
+}
 
 
-  
-  
 
-  
-  
-  
-  
-  
-  
+
+
+
+
+
