@@ -71,20 +71,52 @@ button.onclick = function() {
 
 // Truth questions
 var truthQuestions = [
-	"What is the most embarrassing thing you've ever done?",
-	"What is the craziest thing you've ever done?",
-	"What is your biggest fear?",
-	"What is your deepest secret?",
-	"What is the most difficult decision you've ever had to make?",
+	"Wat is het ergste dat je ooit hebt gedaan?",
+	"Wat is je grootste angst?",
+  "Als je een fictief personage zou kunnen daten, wie zou dat dan zijn?",
+  "Hou je van grote dingen?",
+  "Wat is de vreemdste droom die je ooit hebt gehad?",
+  "Wat is de ergste fysieke pijn die je ooit hebt meegemaakt?",
+  "Wat is je grootste onzekerheid?",
+  "Plas jij onder de douche?",
+  "Heb jij een verborgen talent?",
+  "Heb je fetisjen (als ja Wat)?",
+  "Wat is je type?",
+  "Ben je ooit ontslagen van een baan?",
+  "Als je een geest zou ontmoeten, wat zouden dan je drie wensen zijn?",
+  "Wat is het gemeenste dat je ooit over iemand anders hebt gezegd?",
+  "Wat is het domste dat je ooit hebt gedaan?",
+  "Wat is een geheim dat je nog nooit aan iemand hebt verteld?",
+  "Wat is je favoriete deel van je lichaam? Waarom?",
+  "Ben je ooit vreemd gegaan?",
+
 ];
 
 // Dare questions
 var dareQuestions = [
-	"Do your best dance move!",
-	"Sing a song in front of everyone!",
-	"Do a handstand!",
-	"Eat a spoonful of mustard!",
-	"Make a funny face and take a selfie!",
+	"Twerk even",
+	"Doe ijsblokjes in je broek",
+	"Doe een handstand!",
+	"Update je relatiestatus naar 'verloofd' op Facebook",
+	"Post de oudste selfie op je telefoon op Instagram Stories",
+  "Eet een eetlepel zout.",
+  "Geef de persoon links van je een kus op het voorhoofd.",
+  "Dans één minuut zonder muziek",
+  "Laat de rest van de groep een DM sturen naar iemand op jouw Instagram",
+  "Roep het eerste woord uit dat in je opkomt",
+  "Probeer je elleboog met je neus te raken",
+  "Stuur een sexy berichtje naar de laatste persoon in je telefoonlijst",
+  "Laat iedereen je DM's zien.",
+  "Zing een solo van 30 seconden van een nummer naar keuze",
+  "Sta op en tewerk een minuutje in het midden van de kamer!",
+  "Kies een dier (allesbehalve een huisdier) en speel het uit, totdat je vrienden raden wat het is!",
+  "Eet een stuk fruit zonder je handen te gebruiken.",
+  "Moonwalk voor 1 minuut.",
+  "Fluister iets vies tegen de persoon links van je.",
+  "Bel de 3e contactpersoon op je telefoon en zing ze 30 seconden van een nummer dat de groep kiest!",
+  "Geef een voetmassage aan de persoon rechts van je.",
+
+
 ];
 
 // Get truth button element and add event listener
