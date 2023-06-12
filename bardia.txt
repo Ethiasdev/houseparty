@@ -1,0 +1,3 @@
+De Variables duidelijker maken
+Functions netjes maken
+zorgen dat je een soort code aanhoud bijvoorbeeld of onclick usen of addeventlistener.
