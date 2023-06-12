@@ -1,0 +1,4 @@
+er zijn een paar punten wat we kunnen verbeteren:
+de variables een duidelijkere naam geven
+het programma structuren
+goed letten op onnodige dingen
