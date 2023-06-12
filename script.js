@@ -88,7 +88,7 @@ var truthQuestions = [
   "Wat is het domste dat je ooit hebt gedaan?",
   "Wat is een geheim dat je nog nooit aan iemand hebt verteld?",
   "Wat is je favoriete deel van je lichaam? Waarom?",
-  "Ben je ooit vreemd gegaan?",
+  "Ben je ooit vreemd gegaan?"
 
 ];
 
@@ -114,7 +114,7 @@ var dareQuestions = [
   "Moonwalk voor 1 minuut.",
   "Fluister iets vies tegen de persoon links van je.",
   "Bel de 3e contactpersoon op je telefoon en zing ze 30 seconden van een nummer dat de groep kiest!",
-  "Geef een voetmassage aan de persoon rechts van je.",
+  "Geef een voetmassage aan de persoon rechts van je."
 
 
 ];
