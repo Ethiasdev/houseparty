@@ -2,7 +2,7 @@
     display: block;
   }
 
-#mydiv {
+#pionOne {
   position: absolute;
   z-index: 9;
   background-color: #f1f1f1;
@@ -10,7 +10,7 @@
   text-align: center;
 }
 
-#mydivheader {
+#pionOneHeader {
   padding: 10px;
   cursor: move;
   z-index: 10;
@@ -47,7 +47,7 @@ button {
 }
 
 
-#test {
+#pionTwo {
   position: absolute;
   z-index: 9;
   background-color: #f1f1f1;
@@ -55,7 +55,7 @@ button {
   text-align: center;
 }
 
-#testheader {
+#pionTwoHeader {
   padding: 10px;
   cursor: move;
   z-index: 10;

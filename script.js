@@ -1,5 +1,5 @@
-dragElement(document.getElementById("mydiv"));
-dragElement(document.getElementById("test"));
+dragElement(document.getElementById("pionOne"));
+dragElement(document.getElementById("pionTwo"));
 
 
 // dragElement function 
